@@ -1,0 +1,18 @@
+
+
+
+
+PartNumber          PartName                Quantity          Value
+  11111              widgets, small           100            $ 1,000.00
+  11112              widgets,med              150            $ 1,800.00
+  11115              widgets, large           100            $ 1,000.00
+  11122              connectors               250            $   500.00
+  11124              braces                   150            $   300.00
+  11125              braces, brass            150            $   450.00
+  11129              braces, bronze           100            $ 1,000.00
+  12111              widgets, small           100            $ 1,000.00
+  12112              widgets,med              150            $ 1,800.00
+  12115              widgets, large           100            $ 1,000.00
+  12122              connectors               250            $   500.00
+
+TOTAL VALUE  $   10,350.00  READ    11  WRITTEN    11
